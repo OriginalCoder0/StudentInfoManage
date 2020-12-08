@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+a{
+	color:blue;
+	font-size:16pt;
+	text-decoration:none;
+}
+
+a:hover{
+	color:red;
+	font-weight:bold;
+}
+
+a:visited{
+	color:blue;
+}
+
+.main{
+	margin: 0 auto; 
+	width: 1024px; 
+	height: 500px;
+}
+
+.error{
+	color:red;
+	font-size:20px;
+}
